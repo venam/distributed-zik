@@ -8,8 +8,3 @@ machines and I thought I would do something similar.
 Nothing very complex and the latency kills it a bit.
 
 
-License
--------
-
-Under WTFPL
-
